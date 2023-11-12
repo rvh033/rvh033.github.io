@@ -26,3 +26,7 @@ html{
 .centered_text{
     text-align: center;
 }
+
+.centered{
+    align-items: center;
+}
